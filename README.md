@@ -8,3 +8,6 @@ When you load the page, a score goal will be displayed. Click the crystals to de
 
 ## Deployed Project
 You can play Crystal Collector [here](https://alecfharris.github.io/crystals-collector/).
+
+## Example Image
+![Crystal Collector](https://i.ibb.co/jRbwszb/Crystal-Collector-Resized-50.png "Crystal Collector")
