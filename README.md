@@ -1,5 +1,6 @@
 # Crystal Collector
 
+## Description
 Crystal Collector is a browser based game in which users click crystals to achieve a specific score. Each crystal has a randomly assigned number value that is added to the score each time it is clicked. JQuery click events are used to ensure that once a crystal is clicked, the score is added to the total.
 
 ## How to Play
